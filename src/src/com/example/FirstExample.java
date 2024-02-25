@@ -12,6 +12,6 @@ public class FirstExample
 
         driver.get("https://facebook.com");
 
-        //driver.quit();
+        driver.quit();
     }
 }
